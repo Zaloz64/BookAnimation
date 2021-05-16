@@ -1,0 +1,21 @@
+body {
+  background-color: aliceblue;
+  -webkit-transform-style: preserve-3d;
+          transform-style: preserve-3d;
+}
+
+body main .blad {
+  width: 500px;
+  height: 500px;
+  background-color: blue;
+}
+
+body main .ring {
+  width: 100px;
+  height: 100px;
+  border-radius: 100%;
+  background-color: gray;
+  -webkit-transform: translateY(90deg);
+          transform: translateY(90deg);
+}
+/*# sourceMappingURL=style.css.map */
